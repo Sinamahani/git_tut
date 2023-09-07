@@ -46,7 +46,7 @@ To start learning, you need to download git and install it on your computer. If 
 
 
 
-Session 02.
+#Session 02.
 Git is a software that every time you run it looks to the files in the current directory and decide which it should do based on its criteria.
 To start, we can create a directory to investigate how git works.
 ~ mkdir test
@@ -72,7 +72,7 @@ Now, if you put a change into your file, and entering git status, you just see i
 Above line of code, put our file(s) into stage mode and ready for commit by
 ~ git commit -m ‘…’
 
--Lesson 3
+#Lesson 3
 There is a command named log in git that shows the history of your work:
 ~ git log
 This command shows you history as newer commits are on top and each commit has its own exclusive code and date.
@@ -89,7 +89,7 @@ Till the end of lesson three, we have become familiar with below commands of git
 ~git log
 
 
-Lesson 4.
+#Lesson 4.
 If you make a change in one of your files, and want to see the difference, you can use git diff <HEAD>. HEAD is showing our current situation and the command generally looks at the new changes and your current files in HEAD. 
 I changed text in page1.html and we see the results.
 ~git diff HEAD
@@ -112,6 +112,6 @@ To summary, we had commands below in this lesson:
 ~git reset <file name>
 ~git checkout -- <file name>
 
-Lesson 5:
+#Lesson 5:
 Continuing ...
  
