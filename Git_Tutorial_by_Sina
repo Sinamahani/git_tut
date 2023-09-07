@@ -1,4 +1,4 @@
-<b>Session 01.</b>
+#Session 01.
 Git is a useful tool for version control system (VCS) that is required to know if you want to be welcomed in the programming world. 
 Imagine you are developing a program and you are done with version 1 and you went further on v2. Now you found a bug in your code and you want to come back to older version, in this case, you better to have a version control system which takes care of your versions and is able to help you back to previous version. It is not only for programming world, but also for everything else you need to have a record of it.
 To start learning, you need to download git and install it on your computer. If you did so, by typing ‘git’ in terminal (MacOS or Linux) or PowerShell (Windows), you must see something but error.
