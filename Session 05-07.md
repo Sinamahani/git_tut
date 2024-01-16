@@ -5,7 +5,7 @@ Branching is a powerful feature in Git that allows you to diverge from the main 
 
 Here is a simple diagram illustrating how branches diverge from the master branch:
 
-![Branching Diagram](sandbox:/mnt/data/image.png)
+![Branching Diagram](05.png)
 
 ### Creating a Branch
 
